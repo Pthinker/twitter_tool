@@ -1,0 +1,380 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'DaviZhang'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'No code found inside your twitt. Check FAQs on WWW.FHFHHF.COM or resend that on TV screen. @DaviZhang', 'in_reply_to_status_id': '554698416417038336'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'DaviZhang'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: 985XX, destination URL www.gcotelecom.com @DaviZhang', 'in_reply_to_status_id': '554698668935090177'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'FCACHADINA'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: 512XX, destination URL www.gcotelecom.com @FCACHADINA', 'in_reply_to_status_id': '554699638457257984'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: 858XX, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '555386240682721280'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: 937XX, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558270510057152512'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558271200275992576'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558287555809259520'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558290440513130496'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558302431109713920'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558303325356314624'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558304507969687553'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558305532474572802'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Wrong code syntax inside your twitt. Check FAQs WWW.FHFHHF.COM or resend that in TV screen checking spelling. @vitidor', 'in_reply_to_status_id': '558305798527664129'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +media22, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558306312430559232'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558309123713142785'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558310172368830464'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558312184498122752'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tauro47, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558314634785325057'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +trer23, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558315143944470528'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tyys23, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558315789401751554'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +nieta23, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558316868482899969'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tata45, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558318257548328960'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +lobas48, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558319715647754240'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +muela54, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558320797207756800'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +terso12, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558323342277869568'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +merda34, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558323504698097664'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +taxis49, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558324601756082176'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +cloro14, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558558729583755264'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Wrong code syntax inside your twitt. Check FAQs WWW.FHFHHF.COM or resend that in TV screen checking spelling. @vitidor', 'in_reply_to_status_id': '558559420708581376'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558559983097638913'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +mutuo63, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558560396567920640'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +pepeh65, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558560815121694720'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +teyey55, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558561307256188928'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +licor62, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558567957119647744'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +merda46, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558568257909968896'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'No code found inside your twitt. Check FAQs on WWW.FHFHHF.COM or resend that on TV screen. @vitidor', 'in_reply_to_status_id': '558568412172271616'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'No code found inside your twitt. Check FAQs on WWW.FHFHHF.COM or resend that on TV screen. @vitidor', 'in_reply_to_status_id': '558568842419798016'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +ttttt21, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558583116189954048'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'No code found inside your twitt. Check FAQs on WWW.FHFHHF.COM or resend that on TV screen. @vitidor', 'in_reply_to_status_id': '558583949807869952'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558589830758948864'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558591473512640514'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558592123784945665'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +marco36, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558592984443527168'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +ghffg45, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558593114945110016'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558596906885316609'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558597278370631680'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558597526556008448'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558597841284005888'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'No code found inside your twitt. Check FAQs on WWW.FHFHHF.COM or resend that on TV screen. @vitidor', 'in_reply_to_status_id': '558598268679368704'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558598577547919360'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558598725204180993'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @vitidor', 'in_reply_to_status_id': '558600216530931712'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +canto98, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558600592684511232'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +canto98, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '558600928061038592'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'No code found inside your twitt. Check FAQs on WWW.FHFHHF.COM or resend that on TV screen. @vitidor', 'in_reply_to_status_id': '558602721436372992'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'FCACHADINA'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @FCACHADINA', 'in_reply_to_status_id': '559670946760785920'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'vitidor'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @vitidor', 'in_reply_to_status_id': '559682350716817408'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'OscarMarcosMart'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @OscarMarcosMart', 'in_reply_to_status_id': '559682385516961792'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'AnnaAbelloPla'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @AnnaAbelloPla', 'in_reply_to_status_id': '559686107844317185'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'OriolSalva'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @OriolSalva', 'in_reply_to_status_id': '559697609896775680'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'never_LA'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @never_LA', 'in_reply_to_status_id': '559698709949464576'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'never_LA'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @never_LA', 'in_reply_to_status_id': '559724947854356481'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): userstream.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'enricb'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'screen_name': 'enricb'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @enricb', 'in_reply_to_status_id': '559789024299454464'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @enricb', 'in_reply_to_status_id': '559789024299454464'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]
+INFO:tweepy.binder:PARAMS: {'screen_name': 'AidaRoscales'}
+INFO:tweepy.binder:PARAMS: {'screen_name': 'AidaRoscales'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @AidaRoscales', 'in_reply_to_status_id': '559827553200787456'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:tweepy.binder:PARAMS: {'status': 'Hi here is your voucher: code: +tropa76, destination URL www.gcotelecom.com @AidaRoscales', 'in_reply_to_status_id': '559827553200787456'}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+ERROR:root:[{u'message': u'Status is a duplicate.', u'code': 187}]

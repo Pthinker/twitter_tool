@@ -10,6 +10,12 @@ import config
 
 Base = declarative_base()
 
+class Codes(Base):
+    __tablename__ = 'codes'
+    
+    id = Column(Integer, primary_key=True)
+    code = Column(String)
+
 class SenderAccount(Base):
     __tablename__ = 'sender_account'
     
@@ -46,6 +52,7 @@ class Operations(Base):
     timeout_at = Column(DateTime)
     reply_ack = Column(Boolean)
     click_ack = Column(Boolean)
+    source = Column(String)
 
 engine = create_engine("mysql://%s:%s@localhost/%s" % (config.DB_USER, config.DB_PWD, config.DB_NAME), echo=False, pool_recycle=3600)
 

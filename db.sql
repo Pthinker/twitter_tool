@@ -24,9 +24,9 @@ create table `sender_following` (
 DROP TABLE IF EXISTS `operations`;
 create table `operations` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
-    `twitter_account` VARCHAR(50) NOT NULL,
+    `twitter_account` VARCHAR(50),
     `is_closed` BOOL DEFAULT '0',
-    `user_twitter_id` BIGINT(20) NOT NULL,
+    `user_twitter_id` BIGINT(20),
     `user_gco_internal_id` varchar(50),
     `code` varchar(20),
     `reply_code` varchar(20),
@@ -37,6 +37,8 @@ create table `operations` (
     `timeout_at` TIMESTAMP, 
     `reply_ack` BOOL DEFAULT '0',
     `click_ack` BOOL DEFAULT '0',
+    `source` varchar(20),
     PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
 
