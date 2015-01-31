@@ -100,9 +100,9 @@ class Listener(StreamListener):
             
 	        # save operation data
                 op_record = db.Operations()
-                op_record.twitter_account = config.twitter_account
+                op_record.account = config.twitter_account
                 op_record.is_closed = False
-                op_record.user_twitter_id = sender["id"]
+                op_record.user_id = sender["id"]
                 op_record.user_gco_internal_id = gco_id
                 op_record.source="twitter"
 
@@ -114,7 +114,7 @@ class Listener(StreamListener):
 		m = pattern.search(tweet["text"])
                 if m and len(m.groups())>0:
                    code = m.group(0)
-                   if code[0] == "+" and len(code) == 8 and int(code[6:]) >= 0 and int(code[6:]) <= 99:  
+                   if code[0] == "+"  and int(code[6:]) >= 0 and int(code[6:]) <= 99:  
 		   	twitCode = code[1:6]
 		   	#print twitCode
 			#existsCode = session.query(db.Codes).filter(code == twitCode).first()
@@ -136,9 +136,7 @@ class Listener(StreamListener):
                 else:
                    code = "ERROR1"
                    error = "ERROR1"
-              
-		               
-		op_record.code = code
+                op_record.code = code
                 op_record.reply_code = reply_code
                 op_record.pin = reply_pin
                 op_record.url = reply_url
@@ -154,7 +152,7 @@ class Listener(StreamListener):
                 try:
                    following_ids = api.friends_ids(screen_name = sender["screen_name"])
                    row = session.query(db.SenderFollowing).filter_by(sender_twitter_id=sender["id"]).first()
-                   print row                
+                   
                    if row is not None:
                       row.following = ",".join(map(str, following_ids))
                       row.created_at = current_ts
@@ -175,16 +173,14 @@ class Listener(StreamListener):
                    tweet_reply_code = reply_code
                    content = "%s code: %s, destination URL %s @%s" % (reply_text, tweet_reply_code, reply_url, sender["screen_name"])
                  
-		elif error == "ERROR1":
+                elif error == "ERROR1":
                    content = "No code found inside your twitt. Check FAQs on WWW.FHFHHF.COM or resend that on TV screen. @%s" % sender["screen_name"]
                 elif error == "ERROR2":
                    content = "Wrong code syntax inside your twitt. Check FAQs WWW.FHFHHF.COM or resend that in TV screen checking spelling. @%s" % sender["screen_name"]
                 elif error == "ERROR3":
                    content = "The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen. @%s" % sender["screen_name"]
 
-		#print content
-
-	        try:
+                try:
                    api.update_status(content, tweet["id"])
                 except TweepError as e:
                    logging.error(e)

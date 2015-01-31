@@ -39,9 +39,9 @@ class Operations(Base):
     __tablename__ = 'operations'
 
     id = Column(mysql.BIGINT, primary_key=True)
-    twitter_account = Column(String)
+    account = Column(String)
     is_closed = Column(Boolean)
-    user_twitter_id = Column(mysql.BIGINT)
+    user_id = Column(mysql.BIGINT) #current only for twitter
     user_gco_internal_id = Column(String)
     code = Column(String)
     reply_code = Column(String)

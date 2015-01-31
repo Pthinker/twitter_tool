@@ -8,7 +8,9 @@ import datetime
 from random import randint
 import sys
 import os
+import re
 import logging
+from gmail import Gmail
 
 import config
 import db
@@ -22,6 +24,27 @@ to_addr = "fcachadina@gcotelecom.com"
 gco_id = "585858558588558"
 station_id = "25TV"
 reply_url = "www.gcotelecom.com"
+
+def check_inbox():
+    g = Gmail()
+    g.login(config.GMAIL_USER, config.GMAIL_PWD)
+    
+    msg = []
+    if g.logged_in:
+        emails =  g.inbox().mail(unread=True)
+        for email in emails:
+            email.fetch()
+            subject = email.subject.strip()
+            body = email.body.strip()
+            fr = email.fr.strip()
+            if len(subject) > 0:
+                msg.append((fr, subject, body))
+            email.read()
+        g.logout()
+    else:
+        logging.error("Failed to login to gmail inbox.")
+    
+    return msg
 
 def compose_email(from_addr, to_addr):
     msg = MIMEMultipart()
@@ -84,7 +107,7 @@ def save_operation():
     session.commit()
     session.close()
 
-def send_email():
+def send_email(emails):
     server = smtplib.SMTP(
         host = config.SES_HOST, 
         port = config.SES_PORT,
@@ -92,22 +115,27 @@ def send_email():
     )
 
     global from_addr
-    global to_addr
  
-    msg = compose_email(from_addr, to_addr)
-    
     server.set_debuglevel(1)
     server.starttls()
     server.ehlo()
     server.login(config.SES_USER, config.SES_PWD)
-    server.sendmail(from_addr, to_addr, msg.as_string())
+    
+    pattern = re.compile("(\+\w+)")
+    for (to_addr, subject, body) in emails:
+        # TODO: get code from subject or body
+        :   
+        if found:
+            msg = compose_email(from_addr, to_addr)
+            server.sendmail(from_addr, to_addr, msg.as_string())
+
+        save_operation()
+    
     server.quit()
 
-    save_operation()
-
-
 def main():
-    send_email()
+    emails = check_inbox()
+    send_email(emails)
 
 if __name__ == "__main__":
     main()
