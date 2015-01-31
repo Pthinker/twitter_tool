@@ -129,7 +129,6 @@ class Listener(StreamListener):
                    else:
 			code = "ERROR3"
                         error = "ERROR3"
-
                 elif "+" in tweet["text"]:
                    code = "ERROR2"
                    error = "ERROR2"

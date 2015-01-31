@@ -1,0 +1,40 @@
+{
+    "language":"es",
+    "mediaDistribution":[
+		{
+			"channelType": "TV",
+		    "channelName": "Lleida TV",
+			"channelLogoUrl": "http://d16rjsl1cfp6k4.cloudfront.net/test/logo.png",
+			"channelLeft":"http://d16rjsl1cfp6k4.cloudfront.net/test/izquierda.png",
+			"channelRight":"http://d16rjsl1cfp6k4.cloudfront.net/test/derecha.png",
+			"channelBottom":"http://d16rjsl1cfp6k4.cloudfront.net/test/inferior.png",
+			"text" :{
+				"es": "Aquí tienes la url de la oferta para que disfrutes del descuento que se te ofrece gracias a que estés mirando nuestro canal de televisión. Esperemos que sigas mirando nuestra programación para obtener muchas más ofertas!"
+			}
+		}
+	],
+	"advertiser":{
+		"logoUrl": "http://d16rjsl1cfp6k4.cloudfront.net/test/letsbonus.png",
+		"text": "Lets Bonus le informa que estas promociones son exclusivas para usted"
+	},
+	"campaign":{
+		"id":"1",
+		"name":"letsbonus",
+		"campaignLogoUrl":"http://d16rjsl1cfp6k4.cloudfront.net/test/letsbonus.png",
+		"urlDestination":"http://transaction.bitv.eu/form.html"
+	},
+	"helpers":{
+		"FAQUrl":{
+			"es": "http://transaction.bitv.eu/es/FAQ.html"
+		},
+		"LegalUrl":{
+			"es": "http://transaction.bitv.eu/es/FAQ.html"
+		},
+		"disclaimers":{
+			"es": "disclaimers text"
+		},
+		"instructions":{
+			"es": "En este correo electrónico te enviamos el mismo código que has visto en la oferta de televisión. A continuación puedes acceder al contenido del siguiente enlace para acceder a la oferta"
+		}
+	}
+}
