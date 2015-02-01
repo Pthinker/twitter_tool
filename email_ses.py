@@ -82,7 +82,7 @@ def compose_email(from_addr, to_addr, error, reply_code, reply_url):
             <body>
                 <p>%s</p>
                 <p>Channel: %s</p>
-                <p>brand logo: <img src="%s"></p>
+                <p>brand logo: <img src="%s" /></p>
                 <br />
                 <p><a href="%s">FAQ</a></p>
                 <p><a href="%s">Legal</a></p>
