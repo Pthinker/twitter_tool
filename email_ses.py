@@ -77,10 +77,11 @@ def compose_email(from_addr, to_addr, error, reply_code, reply_url):
         reply_content = "The code supplied is not correct. Check FAQs on WWW.FHFHHF.COM or resend strictly that shown on TV screen."
 
     ins = json_data["helpers"]["instructions"]["es"]
+
     content = """\
         <html>
             <body>
-                <p>%s</p>
+		<p>%s</p>
                 <p>Channel: %s</p>
                 <p>brand logo: <img src="%s" /></p>
                 <br />
@@ -90,7 +91,8 @@ def compose_email(from_addr, to_addr, error, reply_code, reply_url):
                 <p>Instructions: %s</p>
             </body>
         </html>
-    """ % (reply_content, json_data["mediaDistribution"][0]["channelName"], json_data["mediaDistribution"][0]["channelLogoUrl"], json_data["helpers"]["FAQUrl"]["es"], json_data["helpers"]["LegalUrl"]["es"], json_data["helpers"]["disclaimers"]["es"], ins)
+    """ % (reply_content,json_data["mediaDistribution"][0]["channelName"], json_data["mediaDistribution"][0]["channelLogoUrl"], json_data["helpers"]["FAQUrl"]["es"], json_data["helpers"]["LegalUrl"]["es"], json_data["helpers"]["disclaimers"]["es"], ins)
+    
     content = content.encode("UTF-8")
     body = MIMEText(content, 'html')
     msg.attach(body)
