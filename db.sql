@@ -21,6 +21,14 @@ create table `sender_following` (
     PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+DROP TABLE IF EXISTS `twitter_id_to_handle`;
+create table `twitter_id_to_handle` (
+    `id` int(11) NOT NULL AUTO_INCREMENT,
+    `twitter_id` BIGINT(20) NOT NULL,
+    `twitter_handle` varchar(50),
+    PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
 DROP TABLE IF EXISTS `operations`;
 create table `operations` (
     `id` int(11) NOT NULL AUTO_INCREMENT,

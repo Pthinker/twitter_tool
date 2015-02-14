@@ -35,6 +35,13 @@ class SenderFollowing(Base):
     following = Column(Text)
     created_at = Column(DateTime)
 
+class TwitterIdToHandle(Base):
+    __tablename__ = 'twitter_id_to_handle'
+    
+    id = Column(Integer, primary_key=True)
+    twitter_id = Column(mysql.BIGINT)
+    twitter_handle = Column(String)
+
 class Operations(Base):
     __tablename__ = 'operations'
 
